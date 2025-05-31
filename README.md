@@ -5,7 +5,7 @@ Goal of the Project:
 The goal of this project is to design and develop a visually appealing, user-friendly, and responsive landing page that adapts seamlessly across all screen sizes—desktops, tablets, and mobile devices. It aims to:
 Provide a strong first impression for a brand, product, or service.
 Guide users toward a specific action (e.g., signing up, purchasing, or learning more).
-Demonstrate core web development skills like HTML, CSS, JavaScript, and responsive design techniques (e.g., Flexbox, Grid, Media Queries).
+Demonstrate core web development skills like HTML and responsive design techniques (e.g., Flexbox, Grid, Media Queries).
 
 What Can It Be Used For?
 A responsive landing page can be used in many real-world applications such as:
